@@ -1,0 +1,1 @@
+<h1>this will be called if a page with same name as this file will be called but if it is not found then it finds for page.php then index.php</h1>

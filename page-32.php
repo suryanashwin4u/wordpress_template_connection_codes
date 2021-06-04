@@ -1,0 +1,1 @@
+<h1>it is called when someone click on the page with page id 32</h1>

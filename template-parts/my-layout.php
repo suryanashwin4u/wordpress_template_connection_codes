@@ -1,0 +1,1 @@
+<h1>define your custom layout inside this file so that any user select it from wordpress page</h1>
